@@ -1,0 +1,8 @@
+01,Fredrik,A
+02,Maja,A
+03,Robin,A
+01,Fredrik,A
+02,Maja,A
+03,Robin,A
+04,Karl,A
+05,Tindra,A
